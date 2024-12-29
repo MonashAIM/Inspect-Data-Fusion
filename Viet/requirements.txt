@@ -1,0 +1,8 @@
+azure_storage_blob
+matplotlib==3.10.0
+nibabel==5.3.2
+numpy==2.2.1
+scikit_learn==1.6.0
+torch==2.3.0
+torchvision==0.18.0
+scikit-image==0.25.0
